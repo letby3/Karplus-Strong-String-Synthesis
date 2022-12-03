@@ -50,5 +50,10 @@ Allpass filter used to simulate string stiffness
 
 ![image](https://user-images.githubusercontent.com/22713938/205454376-6a4edd64-24f8-4228-997e-21d85a21d323.png)
 
+После MergedFilter применялся стандартный фильтр Allpass, вместо string stiffness.
 
-
+Литература:
+1. https://ccrma.stanford.edu/realsimple/faust_strings/faust_strings.pdf
+2. http://musicweb.ucsd.edu/~trsmyth/papers/KSExtensions.pdf
+3. https://www.dsprelated.com/freebooks/filters/Allpass_Filters.html
+4. https://lms.kgeu.ru/pluginfile.php?file=%2F157450%2Fmod_resource%2Fcontent%2F2%2F%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F-9%20%D0%A1%D0%90%D0%A0%D0%A3.pdf
