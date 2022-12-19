@@ -1,4 +1,4 @@
-# OOOSTC_Problem2
+# Karplus-Strong-String-Synthesis
 All Problems u can find in "задачи.docs"
 
 Реализация простого синтезатора частот с использованием алгоритма Карплуса-Стронга
